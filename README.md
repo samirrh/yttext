@@ -1,5 +1,5 @@
 # yttext 
-## Video Demo: https://www.youtube.com/watch?v=tDcgOLzuDCw (gif below if you want to save time)
+## Video Demo: https://www.youtube.com/watch?v=tDcgOLzuDCw 
 ![alt text](https://github.com/samirrh/yttext/blob/master/example.png?raw=true)
 
 
