@@ -27,4 +27,6 @@ If you'd like to try it out:
   <li>You'd also need to start the api (cd into the backend folder then do npm start) </li>
 </ul>
 
+Thanks for checking out my project!
+(p.s. I'm more of a hip hop fan - but everyone likes Ed Sheeran and Bruno Mars haha)
 ![alt text](https://github.com/samirrh/yttext/blob/master/example-gif.gif?raw=true)
