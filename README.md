@@ -1,4 +1,5 @@
-# yttext
+# yttext 
+## Video Demo: https://www.youtube.com/watch?v=tDcgOLzuDCw
 
 When learning something on YouTube the transcript of whats on the screen could be really useful.
 There could be an important list in the video you want to keep.
@@ -17,6 +18,6 @@ If you'd like to try it out:
   <li>Download this repo</li>
   <li>On Google Chrome go to settings > extension</li>
   <li>Turn on Developer Mode (right corner toggle) </li>
-  <li>Click load unpacked then choose the build folder </li>
+  <li>Click load unpacked then choose the build folder in the frontend </li>
   <li>You'd also need to start the api (cd into the backend folder then do npm start) </li>
 </ul>
