@@ -1,7 +1,7 @@
 # yttext 
-## Video Demo: https://www.youtube.com/watch?v=tDcgOLzuDCw
+## Video Demo: https://www.youtube.com/watch?v=tDcgOLzuDCw (gif below if you want to save time)
 ![alt text](https://github.com/samirrh/yttext/blob/master/example.png?raw=true)
-![alt text](https://github.com/samirrh/yttext/blob/master/example-gif.gif?raw=true)
+
 
 yttext is chrome extension that extracts the text from a YouTube video frame.
 
@@ -26,3 +26,6 @@ If you'd like to try it out:
   <li>Click load unpacked then choose the build folder in the frontend </li>
   <li>You'd also need to start the api (cd into the backend folder then do npm start) </li>
 </ul>
+
+Heres a gif 
+![alt text](https://github.com/samirrh/yttext/blob/master/example-gif.gif?raw=true)
