@@ -11,3 +11,12 @@ Its not necessarily perfect, here are some bugs I plan to iron out:
 <ul>
 <li>Sometimes it doesn’t work on videos with ads.</li>
 </ul>
+
+If you'd like to try it out:
+<ul>
+  <li>Download this repo</li>
+  <li>On Google Chrome go to settings > extension</li>
+  <li>Turn on Developer Mode (right corner toggle) </li>
+  <li>Click load unpacked then choose the build folder </li>
+  <li>You'd also need to start the api (cd into the backend folder then do npm start) </li>
+</ul>
