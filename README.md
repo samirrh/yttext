@@ -1,5 +1,5 @@
 # yttext 
-## Video Demo: https://www.youtube.com/watch?v=tDcgOLzuDCw 
+## Video Demo: https://www.youtube.com/watch?v=tDcgOLzuDCw (gif at bottom)
 ![alt text](https://github.com/samirrh/yttext/blob/master/example.png?raw=true)
 
 
@@ -27,5 +27,4 @@ If you'd like to try it out:
   <li>You'd also need to start the api (cd into the backend folder then do npm start) </li>
 </ul>
 
-Heres a gif 
 ![alt text](https://github.com/samirrh/yttext/blob/master/example-gif.gif?raw=true)
