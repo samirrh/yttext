@@ -2,7 +2,7 @@
 ## Video Demo: https://www.youtube.com/watch?v=tDcgOLzuDCw
 ![alt text](https://github.com/samirrh/yttext/blob/master/example.png?raw=true)
 
-yttext chrome extension that extracts the text from a YouTube video frame.
+yttext is chrome extension that extracts the text from a YouTube video frame.
 
 When learning something on YouTube the transcript of whats on the screen could be really useful.
 There could be an important list in the video you want to keep.
