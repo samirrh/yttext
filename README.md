@@ -1,6 +1,7 @@
 # yttext 
 ## Video Demo: https://www.youtube.com/watch?v=tDcgOLzuDCw
 ![alt text](https://github.com/samirrh/yttext/blob/master/example.png?raw=true)
+![alt text](https://github.com/samirrh/yttext/blob/master/example-gif?raw=true)
 
 yttext is chrome extension that extracts the text from a YouTube video frame.
 
