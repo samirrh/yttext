@@ -10,4 +10,4 @@ It was a great experience and I plan on making the jump to using TypeScript for 
 Its not necessarily perfect, here are some bugs I plan to iron out:
 <ul>
 <li>Sometimes it doesn’t work on videos with ads.</li>
- </ul>
+</ul>
