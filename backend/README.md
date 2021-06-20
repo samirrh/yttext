@@ -8,7 +8,7 @@ Fork or clone this repo.
 
 `npm install` to install the required modules.
 
-Add your own google API key + info.
+Add your own google API key etc in a .env.
 
 ## To use
 
